@@ -1,0 +1,23 @@
+.scrollableContainer-2NUZem {
+    box-shadow: 0 0 12px 4px lime;
+}
+/* HOME BUTTON */
+#app-mount svg.homeIcon-tEMBK1 {
+    color:transparent;
+    background: url('https://cdn.discordapp.com/attachments/685699506301567060/727412370833408101/Hyper_lS.png') no-repeat center/cover;
+    height: 48px;
+    width: 48px;
+}
+.buttonWrapper-1ZmCpA{
+    display: none
+}
+.wordmark-2iDDfm > svg > path{
+    display: none !important;
+}
+.wordmark-2iDDfm::before{
+    content: 'DISCORD';
+    font-size: 16px;
+    Font-Weight: 600;
+    position:fixed;
+    color: #7289DA;
+}
